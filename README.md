@@ -1,7 +1,7 @@
 # oswe-scripts
 for my personal use. so it may not be so user friendly or it may not even work at all! 
 
-## for xss-webfuzzer.py
+##### for xss-webfuzzer.py
 
 a simple XSS web fuzzer that can takes payloads from http://htmlpurifier.org/live/smoketests/xssAttacks.xml
 
