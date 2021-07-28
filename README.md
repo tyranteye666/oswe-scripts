@@ -1,4 +1,4 @@
-# oswe-scripts
+# OSWE Scripts in the making
 for my personal use. so it may not be so user friendly or it may not even work at all! 
 
 ### for xss-webfuzzer.py
