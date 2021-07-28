@@ -35,4 +35,8 @@ optional arguments:
                         Enable proxy; in this format: 127.0.0.1:8080
 ```
 ------
+#### sqli-extract-data.py
+supposedly, to extract database version. however, it's still unfinished (or yet to be tested).
 
+[how]
+$ `python3 sqli-extract-data.py -u http://test2.com -d "field1=SQLI&field2=test" -m POST -px 127.0.0.1:8080`
